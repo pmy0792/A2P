@@ -1,4 +1,4 @@
-name: PatchTST
+name: A2P
 channels:
   - pytorch
   - defaults
@@ -216,4 +216,4 @@ dependencies:
       - yarl==1.15.2
       - zict==3.0.0
       - zipp==3.20.2
-prefix: /data/pmy0792/anaconda3/envs/PatchTST
+prefix: /data/
